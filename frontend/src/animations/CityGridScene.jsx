@@ -1,7 +1,6 @@
 import { useEffect, useRef } from "react";
 import {
   AmbientLight,
-  BufferTexture,
   CanvasTexture,
   CylinderGeometry,
   DirectionalLight,
